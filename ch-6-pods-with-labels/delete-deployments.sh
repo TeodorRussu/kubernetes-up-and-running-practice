@@ -1,0 +1,1 @@
+kubectl delete deployment  alpaca-prod alpaca-test bandicoot-prod bandicoot-staging
